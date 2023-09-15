@@ -1,5 +1,10 @@
+A Rust library to parse Spanish into a poetic data type, \\
+and an Emacs package to interface with ~(insert (rhymezone-lookup-word "type"))~.
 
+---
 
 #+BEGIN_QUOTE
 Barras
 #+END_QUOTE
+
+
